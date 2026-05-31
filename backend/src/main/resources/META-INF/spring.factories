@@ -1,0 +1,2 @@
+# Archivo dejado intencionalmente vacío.
+# La carga de .env se realiza vía spring.config.import en application.properties.
